@@ -3,7 +3,6 @@
 **Transform meetings into actionable insights** with this advanced LLM-powered assistant. Processes audio, text (English/Arabic), and soon documents to extract decisions, action items, and key takeaways.
 
 [![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/amira01/meeting-assistant)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ## 🌟 Key Features
 
