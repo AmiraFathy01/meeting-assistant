@@ -40,3 +40,14 @@
 
 1. Access the live demo:  
    [![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm.svg)](https://huggingface.co/spaces/amira01/meeting-assistant)
+
+
+## 🖼️ Visual Demo
+
+| Input Options  Analysis Output |
+|------------------------------|
+| ![Input Interface](audio.png)  |
+| ![Input Interface](text.png)  |
+| ![Input Interface](arabic.png)  |
+
+
